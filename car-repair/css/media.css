@@ -1,0 +1,287 @@
+@media (max-width: 1260px) {
+    .info__item {
+        padding: 30px;
+    }
+
+    .info__title {
+        font-size: 16px;
+    }
+
+    .info__text {
+        font-size: 14px;
+    }
+}
+
+@media (max-width: 1080px) {
+    .intro__content {
+        height: 630px;
+    }
+
+    .about__block {
+        padding-right: 30px;
+    }
+
+    .services__content {
+        height: 450px;
+    }
+}
+
+@media (max-width: 992px) {
+    .section {
+        margin-bottom: 30px;
+    }
+
+    .header__logo img {
+        height: 55px;
+    }
+
+    .intro__content {
+        justify-content: center;
+        height: 530px;
+    }
+
+    .intro__block {
+        text-align: center;
+    }
+
+    .intro__title {
+        font-size: 34px;
+    }
+
+    .info__item {
+        padding: 25px;
+    }
+
+    .info__title {
+        letter-spacing: unset;
+    }
+
+    .services__content {
+        height: 350px;
+    }
+
+    .services__content-item {
+        display: none;
+    }
+
+    .services__content::after {
+        display: none;
+    }
+
+    .about {
+        padding: 30px 0;
+    }
+
+    .about__wrapper {
+        flex-direction: column;
+    }
+
+    .about__block {
+        max-width: 600px;
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+
+    .about__image {
+        height: 400px;
+    }
+
+    .process__title {
+        font-size: 70px;
+        margin-bottom: 20px;
+    }
+
+    .process__subtitle {
+        font-size: 30px;
+        margin-bottom: 50px;
+    }
+
+    .footer__wrapper {
+        height: 100px;
+    }
+}
+
+@media (max-width: 862px) {
+    .info__item {
+        padding: 10px;
+    }
+
+    .block__link {
+        margin-bottom: 30px;
+    }
+
+    .info__title {
+        font-size: 15px;
+        font-weight: 600;
+    }
+
+    .info__text {
+        font-size: 13px;
+    }
+
+    .contact {
+        padding: 50px 0;
+    }
+}
+
+@media (max-width: 792px) {
+
+    /* .header__block {
+        width: auto;
+    } */
+
+    .header__logo img {
+        height: 40px;
+    }
+
+
+
+    .block__title {
+        text-align: center;
+    }
+
+    .intro__content {
+        height: 450px;
+    }
+
+    .info__item {
+        height: 150px;
+    }
+
+    .contact__form {
+        margin: 0 auto;
+    }
+}
+
+@media (max-width: 692px) {
+
+    .header__logo img {
+        height: 30px;
+    }
+
+    .header__nav-link {
+        font-size: 12px;
+        margin-right: 20px;
+    }
+
+    .header__language-link {
+        font-size: 12px;
+    }
+
+    .intro__content {
+        height: 400px;
+    }
+
+    .intro__title {
+        font-size: 24px;
+    }
+
+    .info__item {
+        transform: translateY(30%);
+        height: 150px;
+    }
+
+        .info__title {
+        font-size: 13px;
+        font-weight: 600;
+    }
+
+    .info__text {
+        font-size: 11px;
+    }
+
+    .services__content {
+        height: 250px;
+    }
+
+    .services__title {
+        font-size: 17px;
+    }
+
+    .block__title {
+        font-size: 24px;
+    }
+
+    .about__text {
+        text-align: justify;
+    }
+
+    .process__title {
+        font-size: 50px;
+        font-weight: 700;
+        margin-bottom: 10px;
+    }
+
+    .process__subtitle {
+        font-size: 26px;
+        letter-spacing: 0.05em;
+        margin-bottom: 30px;
+    }
+
+    .footer__wrapper {
+        height: 80px;
+    }
+}
+
+@media (max-width: 628px) {
+
+    .info__item {
+        text-align: center;
+    }
+
+    .section {
+        text-align: center;
+    }
+
+    .block__title {
+        font-size: 18px;
+    }
+
+    .block__link {
+        font-size: 13px;
+    }
+
+    .services__title {
+        font-size: 14px;
+    }
+
+    .about {
+        padding: 20px 20px;
+    }
+
+    .about__text {
+        font-size: 13px;
+        letter-spacing: 0.15em;
+        margin: 20px 0;
+    }
+
+    .about__image {
+        height: auto;
+    }
+
+    .process__item {
+        text-align: center;
+        min-height: 100px;
+    }
+
+    .process__title {
+        font-size: 42px;
+    }
+
+    .process__subtitle {
+        font-size: 22px;
+    }
+
+    .copyright {
+        font-size: 13px;
+    }
+
+    .footer__soc-link {
+        height: 20px;
+    }
+}
+
+@media (max-width: 628px) {
+    
+}
+
